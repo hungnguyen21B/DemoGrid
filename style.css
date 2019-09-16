@@ -4,19 +4,19 @@
 }
 .menu{
 	grid-area: menu;
-	background-color: blue;
+	background-color: green;
 }
 .content{
 	grid-area: content1;
-	background-color: green;
+	background-color: blue;
 }
 .main-bar{
 	grid-area: main-bar;
-	background-color: aqua;
+	background-color: orange;
 }
 .footer{
 	grid-area: footer;
-	background-color: yellow;
+	background-color: violet;
 }
 .grid-container{
 	display: grid;
